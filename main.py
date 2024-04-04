@@ -1,4 +1,3 @@
-#Join All Blocks to make our code works
 import random
 randNum = random.randint(1,100)
 #print(randNum)
@@ -75,6 +74,3 @@ elif guesses == 10 :
 
 else :
   print("Please choose either 5 or 10 ")
-
-#if guesses == 5 or 10 :
-  #print("My number is : ",randNum)
